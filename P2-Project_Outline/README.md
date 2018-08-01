@@ -7,11 +7,21 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+Website that tracks the occurrence of boy pain. The site would allow individuals to track pain by body part and intensity. It would allow users to import data from fitness and health tracking sites.
 ### Features
-Include Features here
+•	User login – 	Users will be able to create accounts and log in to the application. Each user will have a profile page.
+•	Form submission for tracking pain locations and intensity – Users will be able to create new entries when logged in. New entries will appear in the user's profile
+•	Search database by blogs related to pain – Users will be able to search for blog posts containing given text.
+•	Integrate data from public APIs – Users will be able to import data related to their exercise and meals.
+
 ### Technologies
-Include Technologies here
+•	Java
+•	Flask
+•	Thymeleaf
+•	JavaScript
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+I will have to learn how to use data from several APIs (with any luck), to integrate a useful user experience.
+
+Using GitHub project – [Launch Code Project]
+(https://github.com/lilsan23/liftoff-assignments/projects)
