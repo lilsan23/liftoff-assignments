@@ -7,10 +7,10 @@ For this assignment you will need to upload your resume, and provide links to yo
 ## Submission Instructions
  
 ### GitHub
-Provide a link to your GitHub account here.
+[Sandra Edwards Github accounnt] (https://github.com/lilsan23)
  
 ### LinkedIn
-Provide a link to your LinkedIn account here.
+[Sandra Edwards Linked In profile] (https://www.linkedin.com/in/sandra-edwards-4386218/)
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
